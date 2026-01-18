@@ -1,0 +1,22 @@
+[
+  { "pokedexId": 25, "level": 3, "beginStats": 45, "jsonType": "Electric", "name": "Pikachu" },
+  { "pokedexId": 4, "level": 1, "beginStats": 39, "jsonType": "Fire", "name": "Charmander" },
+  { "pokedexId": 7, "level": 2, "beginStats": 44, "jsonType": "Water", "name": "Squirtle" },
+  { "pokedexId": 27, "level": 5, "beginStats": 50, "jsonType": "Earth", "name": "Sandshrew" },
+  { "pokedexId": 81, "level": 4, "beginStats": 48, "jsonType": "Electric", "name": "Magnemite" },
+  { "pokedexId": 37, "level": 2, "beginStats": 49, "jsonType": "Fire", "name": "Vulpix" },
+  { "pokedexId": 60, "level": 6, "beginStats": 46, "jsonType": "Water", "name": "Poliwag" },
+  { "pokedexId": 74, "level": 1, "beginStats": 42, "jsonType": "Earth", "name": "Geodude" },
+  { "pokedexId": 100, "level": 3, "beginStats": 43, "jsonType": "Electric", "name": "Voltorb" },
+  { "pokedexId": 58, "level": 7, "beginStats": 50, "jsonType": "Fire", "name": "Growlithe" },
+  { "pokedexId": 54, "level": 2, "beginStats": 44, "jsonType": "Water", "name": "Psyduck" },
+  { "pokedexId": 104, "level": 5, "beginStats": 47, "jsonType": "Earth", "name": "Cubone" },
+  { "pokedexId": 125, "level": 4, "beginStats": 41, "jsonType": "Electric", "name": "Electabuzz" },
+  { "pokedexId": 126, "level": 3, "beginStats": 48, "jsonType": "Fire", "name": "Magmar" },
+  { "pokedexId": 86, "level": 6, "beginStats": 45, "jsonType": "Water", "name": "Seel" },
+  { "pokedexId": 95, "level": 2, "beginStats": 49, "jsonType": "Earth", "name": "Onix" },
+  { "pokedexId": 135, "level": 1, "beginStats": 46, "jsonType": "Electric", "name": "Jolteon" },
+  { "pokedexId": 136, "level": 7, "beginStats": 50, "jsonType": "Fire", "name": "Flareon" },
+  { "pokedexId": 72, "level": 3, "beginStats": 44, "jsonType": "Water", "name": "Tentacool" },
+  { "pokedexId": 112, "level": 5, "beginStats": 48, "jsonType": "Earth", "name": "Rhydon" }
+]
